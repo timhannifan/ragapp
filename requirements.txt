@@ -1,0 +1,10 @@
+streamlit
+schedule
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-huggingface
+qdrant-client
+llama-index-vector-stores-qdrant
+openai
+docx2txt
+openpyxl
